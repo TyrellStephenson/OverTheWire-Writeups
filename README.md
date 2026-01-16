@@ -3,7 +3,7 @@ My solutions and writeups for the OverTheWire wargames
 
 ## Progress
 
-### [Bandit](./BANDIT.md) - 0/34 levels
+### [Bandit](./BANDIT.md) - 10/34 levels
 
 ### Natas - Coming March 2026
 Web security challenges.
