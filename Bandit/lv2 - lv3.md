@@ -20,6 +20,6 @@ cat ./"--spaces in this filename--"
 Trying the previous solution cat ./--spaces in this filename-- didn't work , so i tried speech marks around the filename cat ./"--spaces in this filename--"
 
 ### Key Concepts
--reading files named with special characters using cat
+-reading files named with spaces in the name using cat
 
 
